@@ -1,0 +1,18 @@
+{
+  "name": "qis-skript",
+  "version": "1.0.0",
+  "description": "script that alerts student when new grades have been added",
+  "main": "webbrowser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Merz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "selenium-webdriver": "^4.18.1"
+  }
+}
